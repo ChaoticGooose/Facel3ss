@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game Dev and Backend Dev
 - 🌱 I’m currently learning C++ and C#
 - 📫 How to reach me - Discord: Faithless#4809, Email: Camerondjfairlie@gmail.com
+- 🌐 My Website - DevGoose.Tech (Redirects Here)
 
 <!---
 Facel3ss/Facel3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
